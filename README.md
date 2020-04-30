@@ -23,8 +23,8 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
 ## Story Board
 
- ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper-In-P5/blob/master/page1.jpg)
+ ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper-In-P5/blob/master/page1.png)
 
- ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper-In-P5/blob/master/page2.jpg)
+ ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper-In-P5/blob/master/page2.png)
 
- ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper-In-P5/blob/master/page3.jpg)
+ ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper-In-P5/blob/master/page3.png)
