@@ -28,3 +28,10 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
  ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper-In-P5/blob/master/page2.png)
 
  ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper-In-P5/blob/master/page3.png)
+ 
+ 
+reference:
+
+https://editor.p5js.org/wvnl/sketches/5wnuHAXKd
+https://gist.github.com/X-Bird/da5ff71326a5dab97fb7
+https://www.youtube.com/watch?v=4hA7G3gup-4
