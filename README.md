@@ -1,4 +1,4 @@
-# Pray-to-The-Big-Dipper-In-P5
+# Pray-to-The-Big-Dipper-Web
 
 ## Summary
 
@@ -8,7 +8,7 @@ Example: In the Romance of the Three Kingdoms, Zhuge Liang tried to pray to The 
 https://www.youtube.com/watch?v=FiYysvyk3gc
 
 
-## Link: https://editor.p5js.org/sinisterpan/full/kahhvYcVo
+## Link: https://sinistrapan.com/pray-to-big-dipper/
 
 
 ## Inspiration 
