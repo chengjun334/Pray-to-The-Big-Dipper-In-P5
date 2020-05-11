@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
 Use your forehead to hit the space bar to kowtow
 
-## Link: https://sinistrapan.com/pray-to-big-dipper/
-
+## Link: https://sinistrapan.com/pray-to-big-dipper/ 
+### (Please use Google Chrome)
 
 ## Inspiration 
 
