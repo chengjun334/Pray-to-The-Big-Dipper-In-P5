@@ -417,7 +417,7 @@ function jumurl(type) {
 
 function keyPressed() {
   if (keyCode === 72) {
-    if (kowtow == 9) {
+    if (kowtow == 8) {
       badLuckRemover = true
       var boundsSub = font.textBounds(subText[subnextT], 0, 0, 30);
       var posxSub = width / 2 - boundsSub.w / 2;
