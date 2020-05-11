@@ -2,11 +2,15 @@
 
 ## Summary
 
-Pray to the Big Dipper is a unique type of prayer in Taoism. Taoists believe that praying to the Big Dipper, is in charge of death at the right time, can avoid disaster and prolong life. This work informs people when do they can pray to the Big Dipper and which star are they parying to. People born in different zodiac years need to pray to different stars.
+Pray to the Big Dipper is a unique type of prayer in Taoism. Taoists believe that praying to the Big Dipper, is in charge of death at the right time, can avoid disaster and prolong life. This work tells prayers which star in Big Dipper they should pary to. People born in different zodiac years need to pray to different stars.
 
 Example: In the Romance of the Three Kingdoms, Zhuge Liang tried to pray to The Big Dipper to extend life
 https://www.youtube.com/watch?v=FiYysvyk3gc
 
+
+## Kowtow Guidance
+
+Use your forehead to hit the space bar to kowtow
 
 ## Link: https://sinistrapan.com/pray-to-big-dipper/
 
